@@ -1,3 +1,4 @@
 # Old-Projects
 Some stuff i made when starting off programming <br>
-2048 is a c++ version of the mobile game of the same name.
+2048 is a c++ version of the mobile game of the same name.<br>
+Pokemon text game is a basic version of the Popular game Pokemon, one of my favs, and is my attempt at creating a simple playable game. It'll be under constant development
