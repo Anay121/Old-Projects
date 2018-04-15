@@ -1,0 +1,4 @@
+Theres 7 header files and 1 main file
+the .XXX files are data files which contain the information of the palces and pokemon as classes 
+Header files go to the include folder or are added to the compiler 
+.XXX files are stored in the same path as the main file
